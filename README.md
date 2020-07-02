@@ -9,5 +9,5 @@ Nothing much, you should have Python3. Would be good ;=)
 ```
 git clone https://github.com/DasPinguinHD/easybundle
 cd easybundle
-python3 EasyBundle.py
+python3 Easy \Bundle.py
 ```
