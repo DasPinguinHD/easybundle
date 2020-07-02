@@ -1,0 +1,12 @@
+Number 1:
+you can run a root shell inside of the YourShell by choosing root shell Y and typing "su" as command in it.
+you can enter exit into it to return back to the YourShell.
+
+Number 2:
+you can always interrupt with CTRL + C or end the Script with CTRL + D.
+
+Number 3:
+the MsfVenomGenerator cant test if file paths exist yet, so make sure they do before entering something.
+
+Number 4:
+MiaXa Khalifa is a guy
